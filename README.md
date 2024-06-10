@@ -2,6 +2,8 @@
 
 LoL Win Probabilities is a project inspired by the work of the LoL Esports team in partnership with AWS on Win Probability for Worlds 2023 (article [here](https://lolesports.com/article/dev-diary-win-probability-powered-by-aws-at-worlds/blt403ee07f98e2e0fc))
 
+**Demo available [here](https://lol-win-probabilities-app.onrender.com/)**
+
 ## What is LoL Win Probabilities
 
 LoL Win Probabilities uses Machine Learning to estimate a team's probability to win the game at any time of the game. The win probability is calculated by comparing the current game state with historical games in similar situations taking a large amount of metrics such as the game time and the gold difference into account.
